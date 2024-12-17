@@ -3,7 +3,7 @@ fun main() {
     println("What type of account would you like to create?")
     println("1. Debit Account")
     println("2. Credit Account")
-    println("3. Checking Account")
+  //  println("3. Checking Account")
     var accountType = 0
     var userChoice = readLine();
     if(userChoice == "1"){
